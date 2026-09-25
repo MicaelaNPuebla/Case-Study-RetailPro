@@ -1,5 +1,5 @@
 # Case-Study
-# RetailPro — Análisis de Ventas y Rentabilidad en E-commerce
+# RetailPro — Análisis de Ventas y Operaciones en E-commerce
 
 Análisis de datos de punta a punta sobre 34.500 transacciones de un e-commerce, desde el modelado en SQL hasta un dashboard de negocio en Power BI. El objetivo no fue describir qué pasó, sino encontrar **dónde se pierde dinero y qué hacer al respecto**.
 
@@ -44,24 +44,21 @@ Los `customer_id` y `product_id` del dataset **no eran claves estables** (un mis
 
 ---
 
-## 📁 Estructura del repositorio
-
-```
-RetailPro/
-├── modulo-3/         # DDL: creación del modelo dimensional en PostgreSQL
-├── modulo-4/         # Consultas de negocio (agregaciones, ranking, ventana de 30 días)
-└── README.md
-```
-
+## 📁 Contenido del repositorio
+ 
+- **`RetailPro - Case Study.pdf`** — el caso completo: contexto, dataset, EDA, modelo + SQL, Power Query, dashboard en Power BI y conclusiones, con capturas de todo el proceso.
+- **`README.md`** — este resumen ejecutivo.
+ 
 ## 📦 Dataset
-
+ 
 *E-commerce Sales Transactions* (Kaggle, autor: miadul). 34.500 transacciones, período 2023-09-11 a 2025-09-10. Dataset público de origen sintético, usado con fines de práctica.
-
+ 
 ---
-
+ 
 ## 👤 Autora
-
+ 
 **Micaela Puebla** — Analista de Datos
 [LinkedIn](https://linkedin.com/in/micaela-puebla) · pueblamicaela00@gmail.com · Mendoza, Argentina
-
+ 
 *Proyecto Integrador Final del curso Data Analytics (Coderhouse, 2026).*
+ 
